@@ -1,0 +1,63 @@
+Jad Al Safi
+613-252-8713 • jado.alsafi@gmail.com • www.linkedin.com/in/jadalsafi • 
+github.com/jadalsafi
+Canadian citizen | Available May to August 2026 | Ottawa, ON (on-site)
+
+EDUCATION
+Bachelor of Engineering, Computer Systems, Co-op | September 2024 – April 
+2029
+Carleton University, Ottawa, ON
+- Second year standing
+- CGPA 9.88/12 (A-)
+- Carleton Academic & Faculty Scholarship – $1,000/year (2024–2026)
+
+TECHNICAL SKILLS
+Languages: C, Python, Verilog, C++, Java, HTML
+Systems/Tools: Linux, Git, Bash, FPGA, Arduino IDE, Python scripting for 
+test automation & data processing
+Embedded/Hardware: Microcontrollers, Raspberry Pi, PWM motor control, 
+sensor interfacing & calibration, breadboarding, soldering 
+(through-hole/wires)
+Debug & Verification: Oscilloscopes, multimeters, serial monitoring, 
+structured testing, datasheet usage, technical documentation
+AI / Automation: Prompt engineering, AI-assisted development, automation 
+scripting, sensor data processing
+Networking: Cisco Packet Tracer
+
+APPLIED PROJECTS
+Autonomous Obstacle-Avoiding Robot (Arduino) | 2023
+- Built and wired an Arduino rover using an ultrasonic rangefinder and 
+motor driver for self-guided movement
+- Programmed a C-based control loop with non-blocking distance sampling 
+and an FSM (advance, brake, pivot)
+- Tuned detection thresholds and motor PWM during runs using the serial 
+monitor to improve reliability
+
+Mini Shell (C, Linux) | 2025
+- Implemented a Unix-like command-line shell in C enabling external 
+program execution with fork, execvp, and wait
+- Built robust input parsing, argument tokenization, and command 
+validation for reliable user input handling
+- Added built-in commands (e.g., cd, exit) with clear error handling and 
+safe memory management
+- Developed and tested in Linux; used Git for version control and 
+iterative development
+
+Data Management System in C (Academic Project) | 2025
+- Designed a modular C application using multiple source/header files
+- Parsed CSV data into structured records using dynamic memory allocation
+- Built linked data structures to store, search, and manage user records 
+efficiently
+- Implemented file I/O, input validation, and menu-driven control; 
+debugged memory/logic issues for stability
+
+WORK EXPERIENCE
+Deli / Hot Case Associate — Metro Grocery Store, Ottawa, ON | Mar 2024 – 
+Present
+- Coordinated with teammates to maintain fast service during peak periods 
+while reducing wait times
+- Maintained strict food-safety and cleanliness standards to ensure 
+consistent quality and compliance
+- Resolved order issues calmly with clear communication while multitasking 
+across prep, service, and restocking
+

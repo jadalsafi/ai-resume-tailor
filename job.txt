@@ -1,0 +1,28 @@
+Database Developer - CSC Ship Integration Team (Co-op)
+Lockheed Martin Canada
+Location: Ottawa, Montreal, or Halifax (Hybrid)
+Work Term: May 4, 2026 – Aug 20, 2026
+
+Job Description:
+- Streamline processes and automate steps with reporting tools and data 
+collection
+- Pull data from various sources, manipulate and consolidate the data
+- Prototype a proof-of-concept Dashboard Status Reporting Tool
+- Establish a database (DB) structure for various datasets
+- Pre-populate the database with initial data for demo purposes
+- Design and implement user interfaces allowing users to poll the DB and 
+perform queries
+- Document and present tool to the team and management
+- Support documentation for proposal to move proof-of-concept into a 
+funded program
+- Work in an AGILE approach
+
+Required Skills:
+- Current student in Computer Science program
+- Database developer skills: physical database design and data structures
+- Knowledge of DB objects: tables, indexes, views, statistics
+- SQL: ability to write complex SQL queries
+- Scripting: Excel VBA, Python or Perl
+- Available for 4 months starting May 2026
+- Eligible for NATO Secret clearance
+
